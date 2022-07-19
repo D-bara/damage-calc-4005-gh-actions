@@ -1,6 +1,6 @@
 # damage-calc
 
-![](https://github.com/D-bara/damage-calc-4005-gh-actions/actions/workflows/main.yml)
+![](https://github.com/D-bara/damage-calc-4005-gh-actions/actions/workflows/main.yml/badge.svg)
 
 このモジュールでは、ダメージ計算を行うことができます。  
 ダメージ計算には
